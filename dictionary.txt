@@ -1,0 +1,147 @@
+ACK#%$@!!@Acknowledgement
+ACL#%$@!!@Access Control List
+ADSL#%$@!!@Asymmetric Digital Subscriber Line
+AES#%$@!!@Advanced Encryption Standard
+ANSI#%$@!!@American National Standards Institute
+API#%$@!!@Application Programming Interface
+ARP#%$@!!@Address Resolution Protocol
+ATM#%$@!!@Asynchronous Transfer Mode
+BGP#%$@!!@Border Gateway Protocol
+BSS#%$@!!@Basic Service Set 
+CAT#%$@!!@Category 
+CHAP#%$@!!@Challenge-Handshake Authentication Protocol 
+CIDR#%$@!!@Classless Inter-Domain Routing	
+CIR#%$@!!@Committed Information Rate
+CLI#%$@!!@Command Line Interpreter
+CPE#%$@!!@Customer Premises Equipment
+CPU#%$@!!@Central Processing Unit	
+CRC#%$@!!@Cyclical Redundancy Check
+CRT#%$@!!@Cathode Ray Tube
+CSMA/CA#%$@!!@Carrier Sense Multiple Access / Collision Avoidance
+CSMA/CD#%$@!!@Carrier Sense Multiple Access / Collision Detection
+CSU/DSU#%$@!!@Channel Service Unit / Data Service Unit
+CMOS#%$@!!@Comp Metal-Oxide Semiconductor
+DAM#%$@!!@Database Activity Monitoring
+DCE#%$@!!@Data Communications Equipment
+DES#%$@!!@Data Encryption Standard
+DHCP#%$@!!@Dynamic Host Configuration Protocol
+DNS#%$@!!@Domain Name System
+DRAM#%$@!!@Dynamic Random-Access Memory
+DSL#%$@!!@Digital Subscriber Line	
+DSLAM#%$@!!@Digital Subscriber Line 
+DTE#%$@!!@Data Terminal Equipment
+DMI#%$@!!@Desktop Management Interface
+EHA#%$@!!@Ethernet Hardware Address
+EIA#%$@!!@Electronics Industry Alliance
+EIGRP#%$@!!@Enhanced Interior Gateway Routing 
+EOF#%$@!!@End Of Frame 
+ESS#%$@!!@Extended Service Set 
+FCC#%$@!!@Federal Communications Commission 
+FCS#%$@!!@Frame Check Sequence
+FDDI#%$@!!@Fiber Distributed Data Interface
+FTP#%$@!!@File Transfer Protocol
+GBIC#%$@!!@Gigabit Interface Converter
+GBPS#%$@!!@Gigabit Per Second
+GEPOF#%$@!!@Gigabit Ethernet Over Plastic Optical Fiber	
+HDLC#%$@!!@High-Level Data Link Control
+HTTP#%$@!!@Hypertext Transfer Protocol	
+HTTPS#%$@!!@Hypertext Transfer Protocol Secure
+IANA#%$@!!@Internet Assigned Number Authority
+ICMP#%$@!!@Internet Control Message Protocol
+IDF#%$@!!@Intermediate Distribution Frame	
+IDS#%$@!!@Intrusion Detection
+IEEE#%$@!!@Institute For Electrical And Electronic Engineers
+IETF#%$@!!@Internet Engineering Task Force	
+IMAP#%$@!!@Internet Message Access Protocol
+IP#%$@!!@Internet Protocol
+IPS#%$@!!@Intrusion Prevention System
+IS-IS#%$@!!@Intermediate System To Intermediate System
+ISDN#%$@!!@Integrated Services Digital Network
+ISP#%$@!!@Internet Service Provider
+ITU-T#%$@!!@International Telecommunications Union	
+KBPS#%$@!!@Kilobit Per Second
+LACP#%$@!!@Link Aggregation Control Protocol
+LAN#%$@!!@Local Area Network
+LAPB#%$@!!@Link Access Procedure, Balanced 
+LAPF#%$@!!@Link-Access Procedure For Frame Relay	
+LLC#%$@!!@Logical Link Control
+MAC#%$@!!@Media Access Control
+MAM#%$@!!@Media Access Management
+MAN#%$@!!@Metropolitan Area Network
+MBPS#%$@!!@Megabits Per Second
+MDF#%$@!!@Main Distribution Frame	
+MIB#%$@!!@Management Information Base 
+MOCA#%$@!!@Multimedia Over Coax Alliance	
+MPLS#%$@!!@Multiprotocol Label Switching	
+MTU#%$@!!@Maximum Transmission Unit
+NAC#%$@!!@Network Access Control	
+NAT#%$@!!@Network Address Translation
+NBMA#%$@!!@Non-Broadcast Multiple Access 
+NIC#%$@!!@Network Interface Card	
+NRZ#%$@!!@Non-Return-To-Zero
+NRZI#%$@!!@Non-Return To Zero Inverted
+NVRAM#%$@!!@Non-Volatile Ram
+OSI#%$@!!@Open System Interconnect 
+OSPF#%$@!!@Open Shortest Path First 
+OUI#%$@!!@Organization Unique Identifier
+PAP#%$@!!@Password Authentication Protocol
+PAT#%$@!!@Port Address Translation
+PC#%$@!!@Personal Computer
+PIM#%$@!!@Personal Information Manager	
+PCM#%$@!!@Pulse-Code Modulation	
+PDU#%$@!!@Protocol Data Unit 
+POP3#%$@!!@Post Office Protocol, Version 3
+POP#%$@!!@Point Of Presence
+POST#%$@!!@Power-On Self Test
+POTS#%$@!!@Plain Old Telephone Service
+PPP#%$@!!@Point-To-Point Protocol	
+PPTP#%$@!!@Point-To-Point Tunneling Protocol
+PTT#%$@!!@Public Telephone / Telegraph Telecom	
+PVST#%$@!!@Per-Vlan Spanning Tree
+RADIUS#%$@!!@Remote Authentication Dial-In User Service
+RAM#%$@!!@Random Access Memory
+RARP#%$@!!@Reverse Arp
+RFC#%$@!!@Request For Comments
+RIP#%$@!!@Routing Information Protocol
+RLL#%$@!!@Run-Length Limited
+ROM#%$@!!@Read-Only Memory
+RSTP#%$@!!@Rapid Spanning Tree Protocol
+RTP#%$@!!@Real-Time Transport Protocol
+RCP#%$@!!@Royal College Of Physicians	
+SDLC#%$@!!@Synchronous Data Link Control	
+SDN#%$@!!@Software Defined Networking
+SFD#%$@!!@Start-Of-Frame Delimiter 
+SFP#%$@!!@Small Form-Factor Pluggable
+S-HTTP#%$@!!@Secure Http
+SLARP#%$@!!@Serial Line Arp (Address Resolution Protocol)	
+SLIP#%$@!!@Serial Line Internet Protocol 
+SMTP#%$@!!@Simple Mail Transfer Protocol
+SNA#%$@!!@Systems Network Architecture
+SNAP#%$@!!@Subnet Access Protocol	
+SNMP#%$@!!@Simple Network Management Protocol
+SOF#%$@!!@Start Of Frame
+SRAM#%$@!!@Static Random Access Memory
+SSH#%$@!!@Secure Shell
+SSID#%$@!!@Service Set Identifier 
+STP#%$@!!@Spanning Tree Protocol	
+SYN#%$@!!@Synchronization
+TCP/IP#%$@!!@Transmission Control Protocol/Internet Protocol
+TDM#%$@!!@Time-Division Multiplexing
+TFTP#%$@!!@Trivial File Transfer Protocol
+TIA#%$@!!@Telecommunications Industry Alliance
+TOFU#%$@!!@Trust On First Use
+UDP#%$@!!@User Datagram Protocol
+USB#%$@!!@Universal Serial Bus
+UTP#%$@!!@Unshielded Twisted Pair
+VC#%$@!!@Virtual Circuit
+VLAN#%$@!!@Virtual Local Area Network
+VLSM#%$@!!@Variable-Length Subnet Masking
+VPN#%$@!!@Virtual Private Network
+W3C#%$@!!@World Wide Web Consortium
+WAN#%$@!!@Wide-Area Network
+WEP#%$@!!@Wired Equivalent Privacy
+WI-FI#%$@!!@I.E.E.E 802.11 (Wi-Fi Alliance)
+WPA#%$@!!@Wi-Fi Protected Access
+WWW#%$@!!@World Wide Web
+AAA#%$@!!@Authentication Authorization Accounting
+ASCII#%$@!!@American Standard Code For Information Interchange
